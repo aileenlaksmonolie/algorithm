@@ -3,17 +3,7 @@
 
 # In[1]:
 
-
 #------------ALGORITHM LAB 1--------------#
-#-----------------GROUP 1-----------------#
-#---GROUP MEMBERS : ----------------------#
-
-#Snehaa Rajkumar (U1921000H)
-#Han Xiao (U1920108G)
-#Aileen Laksmono Lie (U1920118E)
-#Vivien Chew Jing Wen (U1922718D)
-#Triston Low Zhi Yang (U1921229E)
-
 
 # In[2]:
 
