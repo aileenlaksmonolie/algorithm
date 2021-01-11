@@ -8,7 +8,7 @@ Various algorithms are explored in these projects and a time complexity analysis
 In this project, we implemented various search algorithms to search a genome sequence (string) in a text file. 
 (search algorithm explored are brute force search, reverse Boyer Moore algorithm, and Knuth–Morris–Pratt algorithm)
 
-File : BFS.py and BFS.ipydb
+File : BFS.py and BFS.ipynb
 
 ## 2. Search algorithm on graphs
 
